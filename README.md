@@ -178,3 +178,11 @@ The wording on the cards is original, written for children — it is not quoted 
   on a log scale and the planet discs are drawn large enough to tap.
 - The speed control is there to make the point that inner planets travel faster than outer ones —
   Mercury laps the Sun in seconds while Neptune takes minutes.
+
+---
+
+## Have a look
+
+[Open the live website](https://pawanadubey.github.io/LittleAstronauts/)
+
+![Screenshot of the Little Astronauts webpage](image.png)
